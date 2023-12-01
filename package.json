@@ -15,6 +15,7 @@
     "vite-plugin-node-polyfills": "^0.16.0"
   },
   "dependencies": {
-    "@remix-project/remix-simulator": "^0.2.36"
+    "@remix-project/remix-simulator": "^0.2.36",
+    "viem": "^1.19.11"
   }
 }
